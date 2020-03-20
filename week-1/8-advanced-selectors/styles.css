@@ -3,7 +3,7 @@
   color: white;
 }
 
-.site-header {
+.site-header > p {
   margin-bottom: 0px;
 }
 
