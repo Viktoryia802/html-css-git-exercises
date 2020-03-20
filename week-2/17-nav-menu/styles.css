@@ -8,6 +8,7 @@
 
 @media screen and (min-width: 700px) {
   .site-header {
+    align-items: center;
     display: flex;
   }
 }
